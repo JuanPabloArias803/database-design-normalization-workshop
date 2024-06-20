@@ -1,13 +1,19 @@
 Libros:
-| ID_Libro | Titulo                | Autor                 | Genero         |
-|----------|-----------------------|-----------------------|----------------|
-| 1        | Don Quijote           | Miguel de Cervantes   | Novela         |
-| 1        | Don Quijote           | Miguel de Cervantes   | Clásico        |
-| 2        | Cien Años de Soledad  | Gabriel García Márquez| Realismo Mágico|
-| 2        | Cien Años de Soledad  | Gabriel García Márquez| Novela         |
-| 3        | La Odisea             | Homero                | Épica          |
-| 3        | La Odisea             | Homero                | Clásico        |
-| 4        | Good Omens            | Neil Gaiman           | Fantasía       |
-| 4        | Good Omens            | Neil Gaiman           | Comedia        |
-| 4        | Good Omens            | Terry Pratchett       | Fantasía       |
-| 4        | Good Omens            | Terry Pratchett       | Comedia        |
+| ID_Libro | Titulo                | Autor                 |
+|----------|-----------------------|-----------------------|
+| 1        | Don Quijote           | Miguel de Cervantes   |
+| 2        | Cien Años de Soledad  | Gabriel García Márquez|
+| 3        | La Odisea             | Homero                |
+| 4        | Good Omens            | Neil Gaiman           |
+| 4        | Good Omens            | Terry Pratchett       |
+
+| ID_Libro | Titulo                | Genero         |
+|----------|-----------------------|----------------|
+| 1        | Don Quijote           | Novela         |
+| 1        | Don Quijote           | Clásico        |
+| 2        | Cien Años de Soledad  | Realismo Mágico|
+| 2        | Cien Años de Soledad  | Novela         |
+| 3        | La Odisea             | Épica          |
+| 3        | La Odisea             | Clásico        |
+| 4        | Good Omens            | Fantasía       |
+| 4        | Good Omens            | Comedia        |
