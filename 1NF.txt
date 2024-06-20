@@ -1,4 +1,10 @@
-Libros:
+| ID_Libro | Titulo                | Autor1                | Autor2                | Autor3                | Genero1        | Genero2    |
+|----------|-----------------------|-----------------------|-----------------------|-----------------------|----------------|------------|
+| 1        | Don Quijote           | Miguel de Cervantes   | NULL                  | NULL                  | Novela         | Clásico    |
+| 2        | Cien Años de Soledad  | Gabriel García Márquez| NULL                  | NULL                  | Realismo Mágico| Novela     |
+| 3        | La Odisea             | Homero                | NULL                  | NULL                  | Épica          | Clásico    |
+| 4        | Good Omens            | Neil Gaiman           | Terry Pratchett       | NULL                  | Fantasía       | Comedia    |
+
 | ID_Libro | Titulo                | Autor                 |
 |----------|-----------------------|-----------------------|
 | 1        | Don Quijote           | Miguel de Cervantes   |
