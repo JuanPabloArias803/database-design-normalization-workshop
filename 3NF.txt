@@ -1,0 +1,33 @@
+Consultas:
+| ID_Consulta | ID_Paciente | Paciente         | Doctor       | Especialidad |
+|-------------|-------------|------------------|--------------|--------------|
+| 1           | 100         | Juan Pérez       | Dr. Smith    | Cardiología  |
+| 2           | 101         | Ana Gómez        | Dr. Johnson  | Neurología   |
+| 3           | 100         | Juan Pérez       | Dr. Smith    | Cardiología  |
+| 4           | 102         | Maria López      | Dr. Lee      | Pediatría    |
+
+
+| ID_Doctor    | Nombre       | Especialidad |
+|--------------|--------------|--------------|
+| 1            | Dr. Smith    | Cardiología  |
+| 2            | Dr. Johnson  | Neurología   |
+| 3            | Dr. Lee      | Pediatría    |
+
+
+| ID_Paciente  | Nombre       |
+|--------------|--------------|
+| 100          | Juan Perez   |
+| 101          | Ana Gómez    |
+| 102          | Maria López  |
+
+
+| ID_Consulta | ID_Paciente | ID_Doctor        |
+|-------------|-------------|------------------|
+| 1           | 100         | 1                |
+| 2           | 101         | 2                |
+| 3           | 100         | 1                |
+| 4           | 102         | 3                |
+
+
+
+
