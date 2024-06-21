@@ -1,0 +1,32 @@
+| ID_Proyecto | Nombre_Proyecto    | ID_Profesor | Nombre_Profesor  |
+|-------------|--------------------|-------------|------------------|
+| 1           | IA Avanzada        | 101         | Dr. Smith        |
+| 2           | Robótica           | 102         | Dr. Johnson      |
+| 3           | IA Aplicada        | 101         | Dr. Smith        |
+| 4           | Redes de Computo   | 103         | Dr. Lee          |
+
+
+Proyectos:
+| ID_Proyecto | Nombre_Proyecto  |
+|-------------|------------------|
+| 1           | IA Avanzada  	 |
+| 2           | Robótica      	 |
+| 3           | IA Aplicada      |
+| 4           | Redes de Computo |
+
+
+Profesor:
+| ID_Profesor | Nombre_Profesor |
+|-------------|-----------------|
+| 101         | Dr. Smith       |
+| 102         | Dr. Johnson     |
+| 103         | Dr. Lee         |
+
+
+Proyecto_Profesor:
+| ID	      | ID_Proyecto        | ID_Profesor |
+|-------------|--------------------|-------------|
+| 1           | 1	           | 101         |
+| 2           | 2	           | 102         |
+| 3           | 3	           | 101         |
+| 4           | 4	           | 103         |

@@ -1,0 +1,26 @@
+Contratos:
+| ID_Proyecto | ID_Empleado | ID_Proveedor |
+|-------------|-------------|--------------|
+| 1           | 1           | 1001         |
+| 1           | 2           | 1002         |
+| 2           | 1           | 1001         |
+
+Proyectos:
+| ID_Proyecto | Nombre_Proyecto |
+|-------------|------------------|
+| 1           | Proyecto A       |
+| 2           | Proyecto B       |
+
+Proyecto_Empleado:
+| ID_Proyecto | ID_Empleado |
+|-------------|-------------|
+| 1           | 1           |
+| 1           | 2           |
+| 2           | 1           |
+
+Proyecto_Proveedor:
+| ID_Proyecto | ID_Proveedor |
+|-------------|--------------|
+| 1           | 1001         |
+| 2           | 1001         |
+| 1           | 1002         |

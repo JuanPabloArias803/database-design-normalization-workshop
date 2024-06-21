@@ -1,0 +1,21 @@
+Inventarios:
+| ID_Inventario | Producto         | Cantidad_Ubicaciones           |
+|---------------|------------------|--------------------------------|
+| 1             | Tornillos        | A1:100, B2:200                 |
+| 2             | Clavos           | A3:150, B4:100                 |
+
+
+Productos:
+| ID_Producto | Nombre_Producto  |
+|-------------|------------------|
+| 1           | Tornillos 	 |
+| 2           | Clavos      	 |
+
+
+Inventarios:
+| ID          | ID_Producto      | Cantidad         | Ubicación        |
+|-------------|------------------|------------------|------------------|
+| 1           | 1       	 | 100              | A1               |
+| 2           | 1          	 | 200              | B2               |
+| 3           | 2          	 | 150              | A3               |
+| 4           | 2          	 | 100              | B4               |
